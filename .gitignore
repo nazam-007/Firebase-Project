@@ -1,0 +1,12 @@
+# Ignore Firebase configuration and credentials
+firebase.json
+firestore.rules
+storage.rules
+.firebase/
+.env
+
+# Node modules (if using Node.js)
+node_modules/
+
+# Logs
+*.log
